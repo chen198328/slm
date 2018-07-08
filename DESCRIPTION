@@ -7,4 +7,4 @@ Maintainer: The package maintainer <chenfuyong@mail.las.ac.cn>
 Description: The algorithm has been successfully applied to networks with tens of millions of nodes and hundreds of millions of edges.
 License: None
 Encoding: UTF-8
-LazyData: true
+LazyData: false
