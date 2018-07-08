@@ -15,3 +15,6 @@ data("karate")
 slm<-slm.community(karate)
 plot(slm.karate)
 ```
+
+# plot
+![image from host](http://ludowaltman.nl/slm/network.png)
