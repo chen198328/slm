@@ -14,7 +14,7 @@ library(slm)
 
 data("karate")
 
-slm<-slm.community(karate)
+slm <-slm.community(karate)
 plot(slm.karate)
 ```
 
