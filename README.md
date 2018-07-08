@@ -1,8 +1,9 @@
 # slm
 smart local moving (SLM) algorithm is an algorithm for community detection (or clustering) in large networks
 
-#usage
+# usage
 
+``` r
 devtools::install_github("chen198328/slm")
 
 library(igraph)
@@ -13,3 +14,4 @@ data("karate")
 
 slm<-slm.community(karate)
 plot(slm.karate)
+```
