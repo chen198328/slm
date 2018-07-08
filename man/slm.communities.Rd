@@ -1,5 +1,5 @@
 \name{slm.community}
-\alias{slm_community}
+\alias{slm.community}
 \title{smart local moving}
 \usage{
 slm.community(g, e.weight="weight", modularity = 1, resolution = 1, algorithm = 3, nrandom = 10, iterations = 10, randomseed = 0, print = 0)
