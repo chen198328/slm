@@ -9,7 +9,7 @@ slm.community <-
            randomseed = 0,
            print = 0,
            memory.size="–Xmx4000m",
-           stack.size="-Xss1000") {
+           stack.size="-Xss1000k") {
     require(igraph)
 
     if (is.directed(g)) {
