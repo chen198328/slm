@@ -59,9 +59,7 @@ slm.community <-
     output.quote <- paste('"', output, '"', sep = "")
 
     args <-
-      c(memory.size,
-        stack.size,
-        "-jar",
+      c("-jar",
         jar.path,
         input.quote,
         output.quote,
